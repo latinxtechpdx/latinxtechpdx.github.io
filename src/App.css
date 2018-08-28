@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+  background-color: rgb(70, 82, 250);
+}
+
+.App-logo {
+  background-color: rgb(70, 82, 250);
+  animation: App-logo-spin infinite 20s linear;
+  height: 120px;
+}
+
+.App-header {
+  background-color: rgb(70, 82, 250);
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+  font-weight: 100;
+}
+
+.Thin {
+  font-weight: 100;
+}
+.Light {
+  font-weight: 200;
+}
+.Normal {
+  font-weight: 400;
+}
+.Black {
+  font-family: 'Exo-ExtraBoldItalic';
+  font-weight: 'bold';
+  font-size: 30px;
+}
+
+.nav-image {
+  height: 80px;
+  width: auto;
+}
+
+.navbar-item h1 {
+  font-size: 2em;
+}
+
+.nav-title {
+  margin-left: -25px;
+}
+
+p {
+  font-size: 1em;
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.sponsor-img {
+  max-width: 150px;
+  max-height: auto;
+}
+
+.slack {
+  max-width: 65px;
+  max-height: 65px;
+  margin-left: 60px;
+}
+
+.slack-text {
+  font-size: 1.5em;
+  margin-left: -60px;
+}
